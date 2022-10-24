@@ -1,0 +1,12 @@
+{
+  "name": "Learning-Platform-server-side",
+  "version": "1.0.0",
+  "description": "Server code for learning platform ",
+  "main": "index.js",
+  "author": "Toukir Ahammed",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
